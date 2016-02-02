@@ -1,0 +1,7 @@
+/_site
+.DS_Store
+Gemfile
+Gemfile.lock
+.ruby-version
+.sass-cache/
+
