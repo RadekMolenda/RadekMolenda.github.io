@@ -1,22 +1,22 @@
-# Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: Radek Molenda (@qrczeno) | Blog
+description: "Qrczeno personal blog including: Ruby, Elixir and my deepest thoughts"
+url: "http://radekmolenda.github.io/"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Radek Molenda"
+  email: "radek.molenda@gmail.com"
+  url: "http://radekmolenda.github.io/"
 
 # Build settings
 baseurl: /
-markdown: kramdown
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
 source: .
 destination: ./_site
-permalink: /:title
+permalink: /:year/:month/:day/:title.html
 paginate: 8
 paginate_path: /page:num/
 
-# Default values
 defaults:
   -
     scope:
