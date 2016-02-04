@@ -1,21 +1,20 @@
 ---
 layout: page
-title: About Emerald
+title: About
 ---
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+![Radek Molenda](img/photo.png "Radek Molenda")
 
-![Emerald](img/Emerald01.png "Emerald")
+I'm Radek Molenda - a father of two and a housband of one. I'm a former rock guitar player, being now a bass player and singer in a band that doesn't have name yet. I'm passionate about Photography.
 
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+I work as a Ruby developer in [Leadformance](http://www.leadformance.com/en/). Huge fan of functional programming, currently learing Elixir...
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
+I'm an author of:
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
+  *  [yaml-tomato](https://github.com/RadekMolenda/yaml-tomato)
 
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
+and I contributed to:
 
-Enjoy!
+  * [id](https://github.com/onthebeach/id)
+  * [gemonames](https://github.com/Leadformance/gemonames)

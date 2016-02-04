@@ -8,6 +8,7 @@ author:
 
 # Build settings
 baseurl: /
+version: 0.1
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
