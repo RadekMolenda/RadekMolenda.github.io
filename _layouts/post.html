@@ -4,6 +4,7 @@ layout: default
 <article id="post-page">
   <h2>{{ page.title }}</h2>		
   <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+  {% include read_time.html %}
   <div class="content">
     {{ content }}
   </div>

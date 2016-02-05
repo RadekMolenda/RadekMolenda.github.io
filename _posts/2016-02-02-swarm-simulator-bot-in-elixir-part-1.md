@@ -3,6 +3,7 @@ layout: post
 date: 2016-02-02 22:00:00 CET
 title: Playing Swarm Simulator with a BOT in Elixir (part 1)
 tags: [Elixir, Swarm Simulator, tutorial]
+comments: true
 ---
 
 Hey! Check out this [Swarm Simulator](https://swarmsim.github.io/#/). Wouldn't that be great to have a fully automated solution to grow the swarm for you? How does it feel to be, you know, the coolest farmer in the neighbourhood using the most fancy farming gadgets? I guarantee you that after finishing this tutorial you will know exactly how it feels.

@@ -4,8 +4,7 @@ title: About
 ---
 ## About
 
-![Radek Molenda](img/photo.png "Radek Molenda")
-
+![Radek Molenda](img/photo.jpg =200x200 "Radek Molenda")
 I'm Radek Molenda - a father of two and a housband of one. I'm a former rock guitar player, being now a bass player and singer in a band that doesn't have name yet. I'm passionate about Photography.
 
 I work as a Ruby developer in [Leadformance](http://www.leadformance.com/en/). Huge fan of functional programming, currently learing Elixir...
