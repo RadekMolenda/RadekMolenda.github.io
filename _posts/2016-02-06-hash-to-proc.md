@@ -2,7 +2,7 @@
 layout: post
 date: 2016-02-06 21:00:00 CET
 title: How to use Hash#to_proc in Ruby?
-tags: [Ruby, Ruby2.3, Hash#to_proc, Tip of a day]
+tags: [Ruby]
 comments: true
 ---
 
