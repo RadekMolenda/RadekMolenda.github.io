@@ -9,6 +9,7 @@
 	    {% endif %}
 	  {% endfor %}
     
+    <a href="{% if site.baseurl == "/" %}pigs{% else %}{{ 'pigs' | prepend: site.baseurl }}{% endif %}" title="{{ page.title }}">Pigs</a>
     <!-- Nav links -->
 	  {% include link.html %}
 
